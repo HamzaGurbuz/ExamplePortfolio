@@ -34,3 +34,28 @@ body {
       color: #fff;
       margin-top: 2rem;
     }
+
+    #githublink {
+
+      text-align: justify;
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      gap: 11px;
+    }
+
+    #instagramlink{
+      text-align: justify;
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      gap: 11px;
+    }
+
+    #linkedinlink{
+      text-align: justify;
+      display: flex;
+      align-items: center;
+      justify-content: left;
+      gap: 11px;
+    }
