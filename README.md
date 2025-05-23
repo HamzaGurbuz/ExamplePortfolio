@@ -31,10 +31,10 @@ To run this project locally, follow these steps:
 
 ## File Structure
 
-```bash
-portfolio/
-│
-├── index.html            # Main HTML file
-├── css/
-│   └── mainstyle.css     # CSS styles
-```
+   ```bash
+   portfolio/
+   │
+   ├── index.html            # Main HTML file
+   ├── css/
+   │   └── mainstyle.css     # CSS styles
+   ```
